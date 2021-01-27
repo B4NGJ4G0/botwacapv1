@@ -1,4 +1,4 @@
-## REUZSC
+## AMDSC
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -52,4 +52,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-* Pulsa : 081386008628 Reuz
+* Pulsa : 081386008628 Ahmad
