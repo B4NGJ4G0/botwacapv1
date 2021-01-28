@@ -22,7 +22,7 @@ termux-setup-storage
 
 - git clone https://github.com/B4NGJ4G0/botwacapv1
 
-- cd bot-wacap
+- cd botwacapv1
 
 - unzip bot-wacap.zip
 
