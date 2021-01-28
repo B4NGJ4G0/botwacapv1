@@ -10,16 +10,43 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 ## CARA INSTALL
 # TERMUX
 ```bash
-> download termux
-> buka
-> pkg install git
-> pkg install ffmpeg
-> pkg install nodejs
-> apt update && apt upgrade
-> git clone https://github.com/B4NGJ4G0/botwacapv1
-> cd botwacapv1
-> bash install.sh
-> node index.js
+termux-setup-storage
+
+- apt upgrade -y
+
+- apt update -y
+
+- pkg install git -y
+
+- pkg install unzip -y
+
+- git clone https://github.com/B4NGJ4G0/botwacapv1
+
+- cd bot-wacap
+
+- unzip bot-wacap.zip
+
+- ls
+
+- cd bot-wacap
+
+- ls
+
+- pkg install ffmpeg -y
+
+- pkg install wget -y
+
+- pkg install nodejs -y
+
+- npm i -g cwebp
+
+- npm i -g ytdl
+
+- npm i
+
+- npm i got
+
+- node index.js
 ```
 
 
